@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.6](https://github.com/googleapis/java-video-stitcher/compare/v0.3.5...v0.3.6) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([ccbbc24](https://github.com/googleapis/java-video-stitcher/commit/ccbbc243035f4bfa639023ca3c4330028851705f))
+
 ## [0.3.5](https://github.com/googleapis/java-video-stitcher/compare/v0.3.4...v0.3.5) (2022-10-03)
 
 
